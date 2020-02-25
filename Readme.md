@@ -8,3 +8,6 @@ Includes:
 - Dijkstra Algorithm
 - Floyd-Warshall Algorithm
 - Print mode using graphviz program (only runs in Linux with graphviz installed)
+```bash
+sudo apt-get install graphviz
+```
