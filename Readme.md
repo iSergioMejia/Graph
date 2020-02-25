@@ -1,4 +1,5 @@
-Graph made in C++ for the data structures course.
+# Graph Library
+## Graph made in C++ for the data structures course.
 Uses template for content and arc weights.
 
 Includes:
